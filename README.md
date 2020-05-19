@@ -1,3 +1,3 @@
 # guessinggame.sh
-##  Tue May 19 19:50:02 DST 2020
-## Nb of lines : 23 guessinggame.sh .
+##  Tue May 19 19:57:48 DST 2020
+## Nb of lines of code: 23 guessinggame.sh .
